@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.outbox{
+    width:330px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 5px;
+    padding: 5px 5px;
+}
